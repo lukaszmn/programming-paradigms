@@ -8,7 +8,8 @@
     "2": "node src/2-SRP.js",
     "3": "node src/3-callback.js",
     "4": "node src/4-promise.js",
-    "5": "node src/5-async-await.js"
+    "5": "node src/5-async-await.js",
+    "6": "node src/6-all-promises.js"
   },
   "repository": {
     "type": "git",
