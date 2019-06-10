@@ -1,0 +1,19 @@
+{
+  "name": "programming-paradigms",
+  "version": "1.0.0",
+  "description": "Programming paradigms in JavaScript - callbacks, Promise, async/await, promisify, functional (Ramda) and reactive (RxJS)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszmn/programming-paradigms.git"
+  },
+  "author": "Łukasz Nojek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszmn/programming-paradigms/issues"
+  },
+  "homepage": "https://github.com/lukaszmn/programming-paradigms#readme"
+}
