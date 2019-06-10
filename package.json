@@ -11,7 +11,8 @@
     "5": "node src/5-async-await.js",
     "6": "node src/6-all-promises.js",
     "7": "node src/7-promisify.js",
-    "8": "node src/8-functional-Ramda.js"
+    "8": "node src/8-functional-Ramda.js",
+    "9": "node src/9-reactive-RxJS.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   "dependencies": {
     "ramda": "^0.26.1",
     "request": "^2.88.0",
+    "rxjs": "^6.5.2",
     "xmldom": "^0.1.27",
     "xpath": "0.0.27"
   }
