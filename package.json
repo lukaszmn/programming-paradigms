@@ -4,7 +4,8 @@
   "description": "Programming paradigms in JavaScript - callbacks, Promise, async/await, promisify, functional (Ramda) and reactive (RxJS)",
   "main": "src/index.js",
   "scripts": {
-    "1": "node src/1-single-function.js"
+    "1": "node src/1-single-function.js",
+    "2": "node src/2-SRP.js"
   },
   "repository": {
     "type": "git",
