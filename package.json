@@ -9,7 +9,8 @@
     "3": "node src/3-callback.js",
     "4": "node src/4-promise.js",
     "5": "node src/5-async-await.js",
-    "6": "node src/6-all-promises.js"
+    "6": "node src/6-all-promises.js",
+    "7": "node src/7-promisify.js"
   },
   "repository": {
     "type": "git",
