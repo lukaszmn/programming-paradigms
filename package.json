@@ -10,7 +10,8 @@
     "4": "node src/4-promise.js",
     "5": "node src/5-async-await.js",
     "6": "node src/6-all-promises.js",
-    "7": "node src/7-promisify.js"
+    "7": "node src/7-promisify.js",
+    "8": "node src/8-functional-Ramda.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/lukaszmn/programming-paradigms#readme",
   "dependencies": {
+    "ramda": "^0.26.1",
     "request": "^2.88.0",
     "xmldom": "^0.1.27",
     "xpath": "0.0.27"
